@@ -1,0 +1,2 @@
+class UsuarioNoEncontrado(Exception):
+    pass
